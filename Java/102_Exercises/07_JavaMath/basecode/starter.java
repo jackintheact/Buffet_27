@@ -57,7 +57,7 @@ class starter {
         // divides totalCookies by studentsInClass using DOUBLE (decimal) division.
         // Hint: you'll need to cast at least one of the ints to a double,
         // e.g. (double) totalCookies or add/multiple by 0.0/1.0
-        double cookiesPerStudentDouble = (double)totalCookies / studentsInClass
+        double cookiesPerStudentDouble = (double)totalCookies / studentsInClass;
  
         System.out.println("Cookies per student (double division): " + cookiesPerStudentDouble);
         // Expected: Cookies per student (double division): 3.4
