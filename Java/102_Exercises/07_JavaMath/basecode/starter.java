@@ -70,7 +70,7 @@ class starter {
  
         // TODO: Construct and declare an int variable named leftoverCookies that stores
         // the remainder of totalCookies divided by studentsInClass
-        int left
+        int left;
  
         System.out.println("Leftover cookies: " + leftoverCookies);
         // Expected: Leftover cookies: 2
@@ -84,7 +84,7 @@ class starter {
  
         // TODO: Construct and declare a double variable named totalCost that equals
         // applesPicked times pricePerApple
-        double totalCost = applesPicked
+        double totalCost = applesPicked;
  
         System.out.println("Total cost: $" + totalCost);
         // Expected: Total cost: $4.2
