@@ -13,7 +13,7 @@ class starter {
 		// Your code goes below here
 		BaseClass test = new BaseClass();
 
-
-		
+  System.out.println("welcome to Jacob's liquor store.");
+   
 	}
 }
