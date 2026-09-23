@@ -8,8 +8,17 @@ import java.util.Scanner;
 
 class starter {
 	public static void main(String args[]) {
-		
+        int r = (int) (Math.random() * 255);
+        int g = (int) (Math.random() * 255);
+        int b = (int) (Math.random() * 255);
+        getColor(r, g, b);
+        getColor(255-r, 255-g, 255-b);
+    
 
+
+		getColor(b, g, r);
+        getColor(g, r, b);
+        
 		// Call getColor(#, #, #);
 	}
 
