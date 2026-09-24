@@ -13,7 +13,7 @@ class starter {
 		System.out.print("I love to learn coding remotely."); 
 	    double myDouble = 0.98;
 		int myInt = (0.98) myDouble;
-		System.out.println(0.98);
+		System.out.println("0.98");
 		
 		
         
