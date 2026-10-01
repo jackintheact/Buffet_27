@@ -7,9 +7,13 @@ import java.util.Scanner;
 import java.util.Random;
 
 class starter {
-	public static void main(String args[]) {
+	public static void main(String args[]) 
 		// the string "I love to learn coding remotely." will appear in
 		// the command window when you compile and run this program.
-		System.out.print("I love to learn coding remotely."); 
-	}
-}
+		System.out.print("I love to learn coding remotely.");
+		int x = 12
+		int y = 18
+		int z = 20
+		if(x>12);
+
+		
