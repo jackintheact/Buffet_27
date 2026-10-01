@@ -19,13 +19,15 @@ class starter {
 		}
 
 		if(x > 16);}
-		System.out.println(X);
-		System.out.println(Y);
-		System.out.println(Z);
+		System.out.println(x);
+		System.out.println(y);
+		System.out.println(z);
+		if(X > y);
+		System.out.print("x is bigger then y!!!");
 
 		
 	
 	
 		
-	}
-}
+	      }
+     }
