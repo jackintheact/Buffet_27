@@ -29,8 +29,10 @@ class starter {
 		}
 		else{
 
-	System.out.println("/_/ ");
 		}
+        System.out.println(".");
+	
+		
 	
 	}
 }
