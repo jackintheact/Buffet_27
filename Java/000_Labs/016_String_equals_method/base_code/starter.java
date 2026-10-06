@@ -20,7 +20,7 @@ class starter {
 		System.out.println(y);
 		System.out.println(z);
 
-		System.out.println("Choses your character");
+		System.out.println("Choose your character");
 		System.out.println(x + y + z);
 	
 		Scanner sc = new Scanner(System.in);
