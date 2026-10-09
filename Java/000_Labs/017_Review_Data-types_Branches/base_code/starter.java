@@ -8,7 +8,55 @@ import java.util.Random;
 
 class starter {
 	public static void main(String args[]) {
-		System.out.println()
+		
+
+		String x = " Evil Jaco";
+		String y = " Evil svar";
+		String z = " Evil dro";
+
+		System.out.println("x");
+		System.out.println("y");
+		System.out.println("z");
+
+	    System.out.println("What is your name mightly soldier.");
+		System.out.println(x + y + z);
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter your character choice: ");
+		String choice = sc.nextLine();
+
+       String w = " Strength (1-10)";
+	   String s = " Intelligence (1-10)";
+	   String a = " Charisma (1-10)";
+	   String d = " Dexterity (1-10)";
+
+	   System.out.println("w");
+	   System.out.println("a");
+	   System.out.println("s");
+	   System.out.println("d");
+
+	   System.out.println("Choose the following traits");
+	   System.out.println(w + a + s + d);
+
+	   if(choice.equals("Strength")){
+		System.out.print("Become as strong as hulk");
+	   }
+
+	   
+
+	   
+
+
+
+
+
+
+
+
+		
+        
+	    
+
 		
 	}
 }
