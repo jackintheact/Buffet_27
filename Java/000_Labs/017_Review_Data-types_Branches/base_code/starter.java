@@ -35,13 +35,17 @@ class starter {
 	   System.out.println("s");
 	   System.out.println("d");
 
+       System.out.println("you have 20 points.");
 	   System.out.println("Choose the following traits");
+	   String choice = sc.nextLine();
 	   System.out.println(w + a + s + d);
-
+       
 	   if(choice.equals("Strength")){
-		System.out.print("Become as strong as hulk");
+		System.out.println("Become as strong as hulk");
+		 choice = sc.nextLine();
+		
 	   }
-
+    
 	   
 
 	   
