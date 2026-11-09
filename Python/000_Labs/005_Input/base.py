@@ -1,0 +1,6 @@
+x = input("What is your name")
+print("my name is" + x)
+y = input("What is your build son")
+print("my build is" + y)
+print("hahaha good son")
+print("haahaha thanks")
